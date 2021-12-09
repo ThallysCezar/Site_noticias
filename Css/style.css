@@ -29,3 +29,35 @@ body{
     background: url(../image/logo.png) no-repeat center;
     text-indent: -3000px;
 }
+
+/*Estrututa Barra de navegação*/
+
+ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+#topo ul{
+    margin-top: 30px;
+    background: #b10333;
+    float: left;
+}
+
+#topo ul li{
+float: left;
+}
+
+#topo ul a{
+    font-size: 0.9em;
+    display: block;
+    padding: o.5em 1.5em;
+    line-height: 2.1em;
+    text-decoration: none;
+    color: #fff;
+    background: url(../image/divisor.png) no-repeat left center;
+}
+
+#topo ul .primerio a{
+    background: none;
+}
