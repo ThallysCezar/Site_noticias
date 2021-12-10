@@ -154,6 +154,16 @@ h2{
     color: #a1a1a1;
 }
 
+label{
+    display: block;
+    cursor: pointer;
+}
+
+input{
+    font-size: 0.9em;
+    background-color: #fff;
+}
+
 /*Rodape*/
 #container-rodape{
     background: #295c71;
