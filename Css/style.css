@@ -32,6 +32,10 @@ body{
 
 /*Estrututa Barra de navegação*/
 
+a:link a:visited{
+    color: #b
+}
+
 ul{
     margin: 0;
     padding: 0;
