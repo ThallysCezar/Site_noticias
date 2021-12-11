@@ -92,19 +92,19 @@ body.fotos #navegacao a#fotos{
 }
 
 /*TRÊS COLUNAS*/
-#tres-colunas #primario{
+#primario{
     width: 270px;
     float: left;
     margin: 0 0 20px 195px;
 }
 
 /*DUAS COLUNAS*/
-#duas-colunas #primeiro{
+#duas-colunas #primario{
     width: 555px;
 }
 
 /*UMA COLUNA*/
-#uma-coluna #primeiro{
+#uma-coluna #primario{
     width: 750px;
     margin: 0 0 20px 0;
 }
